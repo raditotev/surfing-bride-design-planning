@@ -12,13 +12,13 @@ $(document).ready(function(){
       delay:5000,
       overlay: false,
       backgrounds:[
-		{ src:'./img/lake_3_lg.jpg', fade:2000 },
-		{ src:'./img/lake_1_lg.jpg', fade:2000 },
-		{ src:'./img/lake_2_lg.jpg', fade:2000 },
-		{ src:'./img/lake_6_lg.jpg', fade:2000 },
-		{ src:'./img/lake_5_lg.jpg', fade:2000 },
-		{ src:'./img/lake_7_lg.jpg', fade:2000 },
-		{ src:'./img/lake_9_lg.jpg', fade:2000 },
+		{ src:'./img/lake_3_l.jpg', fade:2000 },
+		{ src:'./img/lake_1_l.jpg', fade:2000 },
+		{ src:'./img/lake_2_l.jpg', fade:2000 },
+		{ src:'./img/lake_6_l.jpg', fade:2000 },
+		{ src:'./img/lake_5_l.jpg', fade:2000 },
+		{ src:'./img/lake_7_l.jpg', fade:2000 },
+		{ src:'./img/lake_9_l.jpg', fade:2000 },
       ]
     })
 
